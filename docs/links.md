@@ -37,9 +37,20 @@ nav_order: 4
 - [Daniel Opitz](https://odan.github.io/)
 - [Александр Пряхин](https://devenergy.ru/)
 - [Корейша Виктор](https://koreysha.ru/)
+- [Классный блог с полезными заметками](http://yugeon-dev.blogspot.com/)
+- [Блог Сергея](https://serhii73.github.io/)
+- [Евгений](http://volter9.github.io/)
+- [Евгений Степанищев](https://bolknote.ru/)
+- [Роман Жариков](https://zharrikov.ru/)
+- [Евгений](https://vporoshok.me/)
+- [Антон Жиянов](https://antonz.ru/)
+- [Кирилл Мокевнин](http://mokevnin.github.io/)
+- [Фёдор Борщёв](https://borshev.com)
+- [Михаил Озорнин](http://mikeozornin.ru/)
 
 ## Программирование
 
 - [MakeDev](https://makedev.org/)
 - [Дока](https://y-doka.site/)
 - [Кинджал](https://kinzhal.media/)
+- [Такая мета](https://someta.site/)
